@@ -1,0 +1,38 @@
+.texto{
+    width: 1000px;
+    margin: auto;
+    text-align: justify;
+    height: 100vh;
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.menu{
+height: 50px;
+background-color:deepskyblue;
+width: 100%;
+}
+.menuLista{
+    color:midnightblue;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.menuLista > li{
+    padding: 20px;
+}
+.footer{
+    background-color: deepskyblue;
+    text-align: center;
+    color: midnightblue;
+}
+img{
+    width: 500px;
+    margin: 10px;
+}
+.pericles{
+    display: flex;
+   
+}
